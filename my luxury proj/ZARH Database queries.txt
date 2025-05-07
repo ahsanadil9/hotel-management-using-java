@@ -1,0 +1,24 @@
+ROOM:
+MariaDB [luxuryhotel]> 
+create table RoomTble (Rb varchar(55), Rcat varchar(55), Rroom int, Rstat varchar(55), Rdur varchar(55),  Rbdate varchar(55), Rprice float, PRIMARY KEY (Rb));
+
+Query OK, 0 rows affected (0.066 sec)
+
+
+
+
+
+CUSTOMER: 
+MariaDB [luxuryhotel]> 
+create table CustomerTble(Cr varchar(55), Cfname varchar(155), Cgen varchar(155),Ccont varchar(155), Caddress varchar(155), Ccity varchar(155), Ccnic varchar(155), PRIMARY KEY (Cr));
+
+Query OK, 0 rows affected (0.069 sec)
+
+
+
+
+
+CUSTOMER UNCHANGEABLE:
+create table CustomerTble1(Ccheckin varchar(55), Ccheckout varchar(55), Ccat varchar(55), Croom varchar(55), Cprice int);
+
+Query OK, 0 rows affected (0.066 sec)

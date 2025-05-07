@@ -1,0 +1,24 @@
+# NetBeans IDE-specific
+nbproject/
+build/
+dist/
+*.class
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Backup files
+*~
+
+# Ignore compiled files
+*.jar
+
+# my luxury proj/*.png
+# my luxury proj/*.jpeg
+

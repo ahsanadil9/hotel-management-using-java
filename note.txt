@@ -1,0 +1,7 @@
+When you clones this GitHub project:
+
+Open it in NetBeans.
+
+Press Run or Build.
+
+NetBeans will auto-generate build/, dist/, etc.
