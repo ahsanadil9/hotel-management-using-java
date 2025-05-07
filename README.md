@@ -1,4 +1,4 @@
-# HotelEase: Java-Based Hotel Management System
+# ZARH: Java-Based Hotel Management System
 
 A full-featured **desktop application** built in Java using **NetBeans IDE** and **Swing GUI toolkit** to streamline hotel operations such as room management, customer check-ins, and administrative control.
 
